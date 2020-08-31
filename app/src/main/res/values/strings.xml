@@ -7,4 +7,10 @@
     <string name="finance">Finance</string>
     <string name="health">Health</string>
     <string name="comfort">Comfort</string>
+    <string name="trending">Trending</string>
+    <string name="text_dummy">Lorem ipsum is simply dummy text of the pardice</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
 </resources>
