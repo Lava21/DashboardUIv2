@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sampleDashboardUIv1</string>
+    <string name="hello">Hello</string>
+    <string name="fulan">Fulan</string>
+    <string name="search">Search...</string>
+    <string name="target">Target</string>
+    <string name="finance">Finance</string>
+    <string name="health">Health</string>
+    <string name="comfort">Comfort</string>
+</resources>
